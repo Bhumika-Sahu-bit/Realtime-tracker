@@ -21,9 +21,7 @@ This project allows users to share and view locations in real time on an interac
 
 ## 📸 Preview Screenshot
 
-*(Add screenshots inside the project folder and rename them `screenshot1.png`, `screenshot2.png`)*
-
-![Realtime Tracker Preview](./screenshot1.png)
+<img width="1852" height="878" alt="Screenshot 2026-02-27 115627" src="https://github.com/user-attachments/assets/835067c1-e43d-42a9-8b28-7fb6d7943f8e" />
 
 ---
 
